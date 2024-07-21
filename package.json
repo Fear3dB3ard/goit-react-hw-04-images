@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-03-image-finder",
+  "name": "goit-react-hw-04-images",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fear3db3ard.github.io/goit-react-hw-03-image-finder/",
+  "homepage": "https://fear3db3ard.github.io/goit-react-hw-04-images/",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
