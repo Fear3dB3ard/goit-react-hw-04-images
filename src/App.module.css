@@ -32,3 +32,8 @@ img {
   grid-gap: 16px;
   padding-bottom: 24px;
 }
+.Error {
+  color: red;
+  text-align: center;
+  font-size: 18px;
+}
